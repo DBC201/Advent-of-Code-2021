@@ -9,6 +9,6 @@ Trying to use c++ more heavily this year
 mkdir build
 cd build
 cmake ..
-cmake --build .
+cmake --build . --target day_1
 ./day_1 "path_to_input"
 ```
